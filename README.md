@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rachitha%20A&fontSize=52&fontAlignY=36&desc=Robotics%20%26%20Automation%20Engineering&descAlignY=58&descSize=20" width="100%" alt="Rachitha A banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rachitha%20A&fontSize=52&fontAlignY=36&desc=Robotics%20%26%20Automation%20Engineering&descAlignY=58&descSize=20" width="100%" alt="Rachitha A "/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=2E86DE&center=true&vCenter=true&width=640&lines=ROS+2+%7C+Gazebo+%7C+NVIDIA+Isaac+Sim;Legged+robots+%26+LiDAR+obstacle+avoidance;Vision-Language+Models+for+robotics)](https://github.com/rrachithaa)
 
